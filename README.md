@@ -4,7 +4,7 @@
 
 ## Contents
 
-- Week 0 (3/16)
+- Week 0 (3/16) [[Lecture]](./1%20-%20Lecture/230316%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%200.pdf)
   - Introduction
 - Week 1 (3/16)
   - A Tour of Rust, Part 1
