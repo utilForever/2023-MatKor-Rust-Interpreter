@@ -15,7 +15,7 @@
 - Week 3 (3/30) [[Lecture]](./1%20-%20Lecture/230330%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%203.pdf) [[Assignment]](./3%20-%20Assignment/230330%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%203/)
   - A Tour of Rust, Part 3
   - Assignment #3
-- Week 4 (4/6)
+- Week 4 (4/6) [[Lecture]](./1%20-%20Lecture/230406%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%204.pdf)
   - A Tour of Rust, Part 4
   - Assignment #4
 - Week 5 (4/13)
