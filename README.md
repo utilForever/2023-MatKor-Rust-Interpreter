@@ -12,7 +12,7 @@
 - Week 2 (3/23) [[Lecture]](./1%20-%20Lecture/230323%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%202.pdf) [[Assignment]](./3%20-%20Assignment/230323%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%202/) [[Solution]](./4%20-%20Solution/230323%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%202/)
   - A Tour of Rust, Part 2
   - Assignment #2
-- Week 3 (3/30) [[Lecture]](./1%20-%20Lecture/230330%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%203.pdf) [[Assignment]](./3%20-%20Assignment/230330%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%203/)
+- Week 3 (3/30) [[Lecture]](./1%20-%20Lecture/230330%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%203.pdf) [[Assignment]](./3%20-%20Assignment/230330%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%203/) [[Solution]](./4%20-%20Solution/230330%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%203/)
   - A Tour of Rust, Part 3
   - Assignment #3
 - Week 4 (4/6) [[Lecture]](./1%20-%20Lecture/230406%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%204.pdf) [[Assignment]](./3%20-%20Assignment/230406%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%204/)
