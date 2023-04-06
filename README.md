@@ -18,7 +18,7 @@
 - Week 4 (4/6) [[Lecture]](./1%20-%20Lecture/230406%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%204.pdf) [[Assignment]](./3%20-%20Assignment/230406%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%204/)
   - A Tour of Rust, Part 4
   - Assignment #4
-- Week 5 (4/13)
+- Week 5 (TBA)
   - A Tour of Rust, Part 5
   - Assignment #5
 - Week 6 ~ (TBA)
