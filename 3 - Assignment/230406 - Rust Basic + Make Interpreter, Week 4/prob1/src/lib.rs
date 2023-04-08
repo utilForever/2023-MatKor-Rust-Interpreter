@@ -166,7 +166,7 @@ mod simple_trybuild {
     use std::process::Command;
 
     pub fn compile_fail(file_name: &str) {
-        let invalid_path: PathBuf = ["tests", "invalid"].iter().collect::<PathBuf>();
+        let invalid_path: PathBuf = ["src", "invalid"].iter().collect::<PathBuf>();
 
         let mut file_path = invalid_path.clone();
         file_path.push(file_name);
