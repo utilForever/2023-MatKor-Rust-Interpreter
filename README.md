@@ -18,11 +18,33 @@
 - Week 4 (4/6) [[Lecture]](./1%20-%20Lecture/230406%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%204.pdf) [[Assignment]](./3%20-%20Assignment/230406%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%204/) [[Solution]](./4%20-%20Solution/230406%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%204/)
   - A Tour of Rust, Part 4
   - Assignment #4
-- Week 5 (TBA)
+- Week 5 (4/13)
   - A Tour of Rust, Part 5
   - Assignment #5
-- Week 6 ~ (TBA)
-
+- Week 6 (5/11)
+  - Lexing
+    - Lexical Analysis
+    - Defining Tokens
+    - The Lexer
+    - Extending our Token Set and Lexer
+    - First REPL
+  - Assignment #6
+- Week 7 (5/18)
+  - Parsing
+    - Parsers
+    - Writing a Parser for the Monkey Programming Language
+    - Parser's first step: Parsing let statements
+    - Parsing Return Statements
+    - Parsing Expressions
+  - Assignment #7
+- Week 8 (5/25)
+  - Parsing
+    - How Pratt Parsing Works
+    - Extending the Parser
+    - Read-Parse-Print-Loop
+  - Assignment #8
+- Week 9 ~ (TBA)
+  
 ## References
 
 - Beginner
