@@ -29,7 +29,7 @@
     - Extending our Token Set and Lexer
     - First REPL
   - Assignment #6
-- Week 7 (5/18)
+- Week 7 (5/18) [[Code]](./2%20-%20Code/230518%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%207/)
   - Parsing
     - Parsers
     - Writing a Parser for the Monkey Programming Language
