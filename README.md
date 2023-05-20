@@ -21,7 +21,7 @@
 - Week 5 (4/13)
   - A Tour of Rust, Part 5
   - Assignment #5
-- Week 6 (5/11) [[Code]](./2%20-%20Code/230511%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%206/) [[Assignment]](./3%20-%20Assignment/230511%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%206/)
+- Week 6 (5/11) [[Code]](./2%20-%20Code/230511%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%206/) [[Assignment]](./3%20-%20Assignment/230511%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%206/) [[Solution]](./4%20-%20Solution/230511%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%206/)
   - Lexing
     - Lexical Analysis
     - Defining Tokens
