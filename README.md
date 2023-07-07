@@ -34,7 +34,7 @@
     - Parsers
     - Writing a Parser for the Monkey Programming Language
     - Parser's first step: Parsing let statements
-- Week 8 (7/7)
+- Week 8 (7/7) [[Code]](./2%20-%20Code/230707%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%208/)
   - Parsing
     - Parsing Return Statements
     - Parsing Expressions
