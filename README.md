@@ -34,11 +34,12 @@
     - Parsers
     - Writing a Parser for the Monkey Programming Language
     - Parser's first step: Parsing let statements
-- Week 8 (TBA)
+- Week 8 (7/7)
+  - Parsing
     - Parsing Return Statements
     - Parsing Expressions
   - Assignment #7
-- Week 9 (TBA)
+- Week 9 (7/13)
   - Parsing
     - How Pratt Parsing Works
     - Extending the Parser
