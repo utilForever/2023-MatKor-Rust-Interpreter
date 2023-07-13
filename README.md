@@ -38,7 +38,7 @@
   - Parsing, Part 2
     - Parsing Return Statements
     - Parsing Expressions
-- Week 9 (7/13)
+- Week 9 (7/13) [[Code]](./2%20-%20Code/230713%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%209/)
   - Parsing, Part 3
     - How Pratt Parsing Works
     - Extending the Parser, Part 1
