@@ -30,23 +30,25 @@
     - First REPL
   - Assignment #6
 - Week 7 (5/18) [[Code]](./2%20-%20Code/230518%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%207/)
-  - Parsing
+  - Parsing, Part 1
     - Parsers
     - Writing a Parser for the Monkey Programming Language
     - Parser's first step: Parsing let statements
 - Week 8 (7/7) [[Code]](./2%20-%20Code/230707%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%208/)
-  - Parsing
+  - Parsing, Part 2
     - Parsing Return Statements
     - Parsing Expressions
-  - Assignment #7
 - Week 9 (7/13)
-  - Parsing
+  - Parsing, Part 3
     - How Pratt Parsing Works
-    - Extending the Parser
+    - Extending the Parser, Part 1
+  - Assignment #7
+- Week 10 (7/20)
+  - Parsing, Part 4
+    - Extending the Parser, Part 2
     - Read-Parse-Print-Loop
   - Assignment #8
-- Week 10 ~ (TBA)
-  
+
 ## References
 
 - Beginner
