@@ -43,7 +43,7 @@
     - How Pratt Parsing Works
     - Extending the Parser, Part 1
   - Assignment #7
-- Week 10 (7/23) [[Code]](./2%20-%20Code/230723%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%2010/)
+- Week 10 (7/23) [[Code]](./2%20-%20Code/230723%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%2010/) [[Assignment]](./3%20-%20Assignment/230723%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%2010/)
   - Parsing, Part 4
     - Extending the Parser, Part 2
     - Read-Parse-Print-Loop
