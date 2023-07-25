@@ -1,0 +1,16 @@
+[package]
+name = "monkey"
+version = "0.1.0"
+edition = "2021"
+authors = ["Chris Ohk <utilforever@gmail.com>"]
+
+[dependencies]
+rustyline = { version = "9.1.2", optional = true }
+
+[[bin]]
+name = "monkey"
+path = "src/bin/main.rs"
+required-features = ["binaries"]
+
+[features]
+binaries = ["rustyline"]
