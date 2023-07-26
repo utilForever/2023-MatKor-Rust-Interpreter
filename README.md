@@ -48,6 +48,34 @@
     - Extending the Parser, Part 2
     - Read-Parse-Print-Loop
   - Assignment #8
+- Week 11 (7/27)
+  - Evaluation, Part 1
+    - Giving Meaning to Symbols
+    - Strategies of Evaluation
+    - A Tree-Walking Interpreter
+    - Representing Objects
+      - Foundation of Object System
+      - Integers
+      - Booleans
+      - Null
+    - Evaluating Expressions
+      - Integer Literals
+      - Completing the REPL
+      - Boolean Literals
+      - Null
+- Week 12 (8/3)
+  - Evaluation, Part 2
+    - Evaluating Expressions
+      - Prefix Expressions
+      - Infix Expressions
+    - Conditionals
+    - Return Statements
+    - Error Handling
+- Week 13 (8/10)
+  - Evaluation, Part 3
+    - Bindings & The Environment
+    - Functions & Function Calls
+    - Who's taking the trash out?
 
 ## References
 
