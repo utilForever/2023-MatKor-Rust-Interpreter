@@ -48,7 +48,7 @@
     - Extending the Parser, Part 2
     - Read-Parse-Print-Loop
   - Assignment #8
-- Week 11 (7/27)
+- Week 11 (7/27) [[Code]](./2%20-%20Code/230727%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%2011/)
   - Evaluation, Part 1
     - Giving Meaning to Symbols
     - Strategies of Evaluation
