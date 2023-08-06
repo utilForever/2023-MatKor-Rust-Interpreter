@@ -63,7 +63,7 @@
       - Completing the REPL
       - Boolean Literals
       - Null
-- Week 12 (8/3)
+- Week 12 (8/6)
   - Evaluation, Part 2
     - Evaluating Expressions
       - Prefix Expressions
