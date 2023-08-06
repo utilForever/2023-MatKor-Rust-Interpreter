@@ -63,7 +63,7 @@
       - Completing the REPL
       - Boolean Literals
       - Null
-- Week 12 (8/6)
+- Week 12 (8/6) [[Code]](./2%20-%20Code/230806%20-%20Rust%20Basic%20%2B%20Make%20Interpreter%2C%20Week%2012/)
   - Evaluation, Part 2
     - Evaluating Expressions
       - Prefix Expressions
